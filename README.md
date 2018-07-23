@@ -1,4 +1,6 @@
 # Sound-Class
+Папка с данными должна лежать в одной папке с ноутбуком
+
 #Необходимые библиотеки
 glob
 os
@@ -10,3 +12,4 @@ tensorflow as tf
 tqdm
 xgboost
 sklearn
+
